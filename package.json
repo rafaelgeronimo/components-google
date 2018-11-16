@@ -1,0 +1,19 @@
+{
+  "name": "components-google",
+  "version": "1.0.0",
+  "description": "Estudo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgeronimo/components-google.git"
+  },
+  "author": "Rafael Gerônimo",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rafaelgeronimo/components-google/issues"
+  },
+  "homepage": "https://github.com/rafaelgeronimo/components-google#readme"
+}
